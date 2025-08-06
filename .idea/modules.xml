@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/basic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/basic.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/db1.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc1-1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc1-1.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/basic/spring-practice.basic.iml" filepath="$PROJECT_DIR$/.idea/modules/basic/spring-practice.basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/basic/spring-practice.basic.test.iml" filepath="$PROJECT_DIR$/.idea/modules/basic/spring-practice.basic.test.iml" />
