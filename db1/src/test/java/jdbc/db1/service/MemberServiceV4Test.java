@@ -3,6 +3,7 @@ package jdbc.db1.service;
 import jdbc.db1.domain.Member;
 import jdbc.db1.repository.MemberRepository;
 import jdbc.db1.repository.MemberRepositoryV4_2;
+import jdbc.db1.repository.MemberRepositoryV5;
 import lombok.extern.slf4j.Slf4j;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
@@ -43,9 +44,10 @@ public class MemberServiceV4Test {
         }
 
         @Bean
-        MemberRepositoryV4_2 memberRepository() {
+        MemberRepository memberRepository() {
             //return new MemberRepositoryV4_1(dataSource); //단순 예외 변환
-            return new MemberRepositoryV4_2(dataSource); //스프링 예외 변환
+//            return new MemberRepositoryV4_2(dataSource); //스프링 예외 변환
+            return new MemberRepositoryV5(dataSource); //JdbcTemplate
         }
 
         @Bean

@@ -35,10 +35,10 @@
 - 스프링과 데이터 접근 기술 발전 **(db2)**
   - SQL중심과 객체지향
   - 데이터베이스 테스트
-  - JdbcTemplate
-  - MyBatis, JPA, Spring Data JPA, QueryDsl
-  - 트랜잭션 전파
-- 스프링과 데이터 접근 기술 발전 **(adv)**
+  - JdbcTemplate, MyBatis
+  - JPA, Spring Data JPA, QueryDsl
+  - 스프링 트랜잭션, 트랜잭션 전파
+- 스프링과 디자인 패턴, AOP **(adv)**
   - ThreadLocal
   - 템플릿 메서드 패턴, 콜백 패턴
   - 프록시 패턴, 콜백 패턴
