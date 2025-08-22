@@ -6,6 +6,9 @@
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/adv-1" />
+    <file type="web" url="file://$PROJECT_DIR$/adv-2" />
+    <file type="web" url="file://$PROJECT_DIR$/adv-3" />
     <file type="web" url="file://$PROJECT_DIR$/basic" />
     <file type="web" url="file://$PROJECT_DIR$/db1" />
     <file type="web" url="file://$PROJECT_DIR$/db2" />
@@ -17,7 +20,7 @@
     <file type="web" url="file://$PROJECT_DIR$/mvc2-6" />
     <file type="web" url="file://$PROJECT_DIR$/mvc2-8" />
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="temurin-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
