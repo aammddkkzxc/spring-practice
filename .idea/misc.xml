@@ -10,6 +10,12 @@
     <file type="web" url="file://$PROJECT_DIR$/adv-2" />
     <file type="web" url="file://$PROJECT_DIR$/adv-3" />
     <file type="web" url="file://$PROJECT_DIR$/basic" />
+    <file type="web" url="file://$PROJECT_DIR$/boot-1" />
+    <file type="web" url="file://$PROJECT_DIR$/boot-2" />
+    <file type="web" url="file://$PROJECT_DIR$/boot-4" />
+    <file type="web" url="file://$PROJECT_DIR$/boot-autoconfigure" />
+    <file type="web" url="file://$PROJECT_DIR$/boot-library" />
+    <file type="web" url="file://$PROJECT_DIR$/boot-profile" />
     <file type="web" url="file://$PROJECT_DIR$/db1" />
     <file type="web" url="file://$PROJECT_DIR$/db2" />
     <file type="web" url="file://$PROJECT_DIR$/db2-2" />
@@ -20,7 +26,7 @@
     <file type="web" url="file://$PROJECT_DIR$/mvc2-6" />
     <file type="web" url="file://$PROJECT_DIR$/mvc2-8" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="temurin-21" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
